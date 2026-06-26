@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OM2356/OMs/tree/master/0001-two-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OM2356/OMs/tree/master/0001-two-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
