@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OM2356/OMs/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/OM2356/OMs/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/OM2356/OMs/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OM2356/OMs/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/OM2356/OMs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
