@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/OM2356/OMs/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OM2356/OMs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/OM2356/OMs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/OM2356/OMs/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OM2356/OMs/tree/master/0029-divide-two-integers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/OM2356/OMs/tree/master/0029-divide-two-integers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
