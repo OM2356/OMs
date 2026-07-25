@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OM2356/OMs/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OM2356/OMs/tree/master/0029-divide-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OM2356/OMs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/OM2356/OMs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OM2356/OMs/tree/master/0018-4sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
