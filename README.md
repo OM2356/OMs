@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/OM2356/OMs/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OM2356/OMs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OM2356/OMs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/OM2356/OMs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OM2356/OMs/tree/master/0018-4sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/OM2356/OMs/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
 | ------- |
