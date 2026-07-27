@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/OM2356/OMs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/OM2356/OMs/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OM2356/OMs/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OM2356/OMs/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/OM2356/OMs/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/OM2356/OMs/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
