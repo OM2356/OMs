@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/OM2356/OMs/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/OM2356/OMs/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OM2356/OMs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/OM2356/OMs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OM2356/OMs/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OM2356/OMs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OM2356/OMs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
