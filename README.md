@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/OM2356/OMs/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OM2356/OMs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OM2356/OMs/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OM2356/OMs/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OM2356/OMs/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/OM2356/OMs/tree/master/0043-multiply-strings) |
+| [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OM2356/OMs/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/OM2356/OMs/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/OM2356/OMs/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/OM2356/OMs/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/OM2356/OMs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/OM2356/OMs/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OM2356/OMs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OM2356/OMs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
