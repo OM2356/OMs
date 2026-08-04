@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/OM2356/OMs/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OM2356/OMs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/OM2356/OMs/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OM2356/OMs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OM2356/OMs/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/OM2356/OMs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OM2356/OMs/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/OM2356/OMs/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/OM2356/OMs/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/OM2356/OMs/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OM2356/OMs/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/OM2356/OMs/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/OM2356/OMs/tree/master/0045-jump-game-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OM2356/OMs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
